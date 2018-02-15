@@ -19,3 +19,7 @@ Today is my first day in Google India Challenge Scholarship: Android Developer a
 **Thoughts**: I'm Kinda overwhelmed with the slack group of Google India Challenge Scholarship and was not sure if I can go on support and help others as there are some people who are experienced but I think I just need to learn and try to support others that's how everyone started out. As for the 30 days of code challenges I'm still trying to copy paste the code and read it and understand it but not completely trying to code on my own but it's a good start. I think this 100DaysOfCode is helping me out in finding my weak points and reflect on them. That's the end of day 2 and yes, I feel good about my work till now.
 
 ### R1D3
+
+Today I just concentrated on doing Google India Challenge Scholarship's lesson 3 and completed it. I learned about Uri, Logging messages, Async tasks, adding internet permission to the app and etc., was a haptic day and learned so many new things.
+
+ **Thoughts**: Now I know that there is a lot of things to learn and I really need to work more hard. This 100DaysOfCode is helping me to push myself and do stuff that I generally procrastinate. It's still the same my tendency to copy paste the code and try to make things work, but it's getting less as I'm consciously trying to avoid it and yes it's a bit difficult as it's like a bad habit. Anyways its good to see that I'm progressing 
